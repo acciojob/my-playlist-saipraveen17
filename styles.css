@@ -2,9 +2,19 @@
 body{
 	background-color:#cccccc;
 }
+a{
+	text-decoration-line:none;
+}
+h1,h2{
+	text-align:center;
+}
 .player_one{
-	display=block;
+	background-color:white;
+	padding:10px;
+	border-radius:0px;
 }
 .player_two {
-	display=block;
+	background-color:white;
+	padding:10px;
+	border-radius:0px;
 }
