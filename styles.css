@@ -1,1 +1,10 @@
 /*  your css code here. If applicable */
+body{
+	background-color:#cccccc;
+}
+.player_one{
+	display=block;
+}
+.player_two {
+	display=block;
+}
